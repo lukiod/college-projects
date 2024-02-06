@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled sorted 
+1172716ebb72dbf8de8bb7caab1881b5429c1ae9 refs/__gh__/pull/6/rebase
+1bdb8a11e3adf91b3ea20105e47cd7b5b3d88e35 refs/heads/master
+5013c613284b84da88572b9e3ca8a1e943979566 refs/heads/otp
+57996e9efc472f417e2b40e0dd0b56b9113359d9 refs/heads/otp-done-copy
+57dcd6b410193d84898a2b13e7ef9999a395ab39 refs/heads/page
+ad5256b7599e56f8e04f946c0f196ee6c506df7c refs/heads/register-complete
+83389054b230606d72ed1ccc707766a2c4f4ae46 refs/pull/1/head
+fe88f01f2427076ac4d12ee4a807227a5c7c056f refs/pull/2/head
+57dcd6b410193d84898a2b13e7ef9999a395ab39 refs/pull/3/head
+57dcd6b410193d84898a2b13e7ef9999a395ab39 refs/pull/4/head
+57996e9efc472f417e2b40e0dd0b56b9113359d9 refs/pull/5/head
+ad5256b7599e56f8e04f946c0f196ee6c506df7c refs/pull/6/head
+3193858fe120ebe6913eac19447f15b1ed60620d refs/pull/6/merge

@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+93ac6702ded62dd949fca4d0e69a508e924a39a4 refs/heads/main
+b123f6a11367f5834cd3e01d9e88eb56efcb9d62 refs/heads/phani
+6f0401f4a3adfa92af14c9cd52830db5f90d2aad refs/heads/revert-2-test
+cc310ce5b6964d38c917fbf6f897254c98f4e97e refs/heads/testo
+e4a3beda5116a990ae370d9fedeb192c6a2c818e refs/pull/1/head
+e4a3beda5116a990ae370d9fedeb192c6a2c818e refs/pull/2/head
